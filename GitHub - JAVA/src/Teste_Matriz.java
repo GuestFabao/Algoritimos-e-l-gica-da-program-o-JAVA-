@@ -27,7 +27,7 @@ public class Teste_Matriz {
 		System.out.println("Matriz Digitada:");
 		     for ( i = 0; i < M; i++) {
 		    	 for ( j = 0; j < N; j++) {
-		    		 System.out.println(mat[i][j] + " ");
+		    		 System.out.print(mat[i][j] + " ");
 		        }
 	               System.out.println();		
 		   }
