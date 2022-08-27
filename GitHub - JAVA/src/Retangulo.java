@@ -40,7 +40,8 @@ public class Retangulo {
 		
 		
 		
-		
+	sc.close();
+	
 		
 
 	}
