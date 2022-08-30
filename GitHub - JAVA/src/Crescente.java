@@ -15,7 +15,7 @@ public class Crescente {
 		x = sc.nextInt();
 		y = sc.nextInt();
 		
-		while (x != y) {
+		while (x != y) { // o sinal de diferente em java é usado o !=//
 			if (x < y ) {
 				System.out.println("CRESCENTE!");
 			}
