@@ -6,7 +6,7 @@ import java.util.Scanner;
 import entities.Triangle;
 
 public class Program_POO {
-
+// Criando uma classe com três atributos para representar melhor o triângulo//
 	public static void main(String[] args) {
 		
 		Locale.setDefault(Locale.US);
